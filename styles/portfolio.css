@@ -133,6 +133,8 @@
 .footer{
     display: flex;
     gap: 100px;
+    width: 1600px;
+    height: 380px;
     background-color: #151414;
     padding: 130px 200px;
 }
@@ -149,10 +151,6 @@
     text-align: left;
     color: #F8F8F8;
 
-}
-.contact, input{
-    margin-bottom: 16pxpx;
-    
 }
 .btn-third{
     display: block;
