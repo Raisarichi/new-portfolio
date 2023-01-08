@@ -1,0 +1,36 @@
+*{
+    margin: auto;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    background-image: url('/images/banner/banner3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 930px;
+}
+
+.right{
+    text-align: right;
+    color: #ffff;
+    padding:280px;
+      
+}
+.banner-tittle{
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 20px;
+}
+.banner-description{
+    font-weight: 400;
+    font-size: 16px;  
+    text-align: right;
+    margin-bottom: 18px;
+}
+.btn-primary{
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+}
