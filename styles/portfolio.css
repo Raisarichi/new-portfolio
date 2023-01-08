@@ -2,12 +2,13 @@
     margin: auto;
     font-family: 'Work Sans', sans-serif;
 }
+/* styles for banner */
 .banner{
     background-image: url('/images/banner/banner3.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 930px;
+    height: 950px;
 }
 
 .right{
@@ -33,4 +34,35 @@
     font-weight: 600;
     font-size: 20px;
     color: #005FAC;
+}
+
+/* styles for achievements section */
+.achievement-container{
+     width: 1500px;
+     margin: 160px;
+}
+
+.achievement-container{
+    display: flex;
+    gap: 20px;
+}
+.description-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 18px;
+}
+.subtittle{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.details{
+    color: #444343;
+    padding:10px 0px;
+
+}
+.tick{
+    color:#16D887;
 }
