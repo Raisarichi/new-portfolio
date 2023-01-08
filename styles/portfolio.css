@@ -132,7 +132,7 @@
 /* styles for footer section */
 .footer{
     display: flex;
-    gap: 100px;
+    gap: 60px;
     width: 1600px;
     height: 380px;
     background-color: #151414;
@@ -171,6 +171,8 @@
     height: 64px;
     border: 1px solid #FFFFFF;
     border-radius: 8px;
+    background: #151414;
+    color:#ffff;
     
 }
 .footer-description{
@@ -184,5 +186,7 @@
 }
 .footer,a{
     margin-top: 16 px;
+    gap:10px;
+    text-decoration: none;
 
 }
